@@ -1,0 +1,177 @@
+/***** Start Default Theme *****/
+
+
+/* Active Link */
+
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:focus, 
+.dropdown-menu>li>a:hover,
+.carousel-indicators .active, 
+.option-box .gear-check,
+#scroll-top
+{
+    background-color: #00ff40;
+}
+
+
+.navbar-inverse .navbar-brand span,
+.carousel-caption h1,
+.about h1 span,
+.features .h1 span.red, 
+.features .feat span.glyphicon,
+.features .feat .hh2,
+.features .feat .hh4,
+.testimonials span,
+.testimonials .carousel-inner span.red,
+.price_table .h1 span.red,
+.price_table .price_box .text-danger,
+.our_team .h1 span.red,
+.our_team .person h3.red,
+.our_team .person i.red,
+.subscribe .h1 span.red,
+.statistics .h1 span.red,
+.our-skills .h1 span.red,
+.contact-us .h1 span.red,
+.footer h3, 
+.footer .copyright span
+{
+    color: #00ff40;
+}
+
+.option-box .color-option,
+.footer .img-thumbnail
+{
+    border: 2px solid #00ff40;
+}
+
+
+.dropdown-menu
+{
+    border-top: 2px solid #00ff40;
+}
+
+
+
+
+
+/*
+.about h1 span 
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.features h1 span.red
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.features .feat span.glyphicon
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.features .feat .hh2
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.features .feat .hh4
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.testimonials span 
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.price_table h1 span.red
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.price_table .price_box .text-danger
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.our_team h1 span.red
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.our_team .person h3.red
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.our_team .person i.red
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.subscribe h1 span.red
+{
+    color: #e41b17;
+} 
+*/
+
+/*
+.statistics h1 span.red 
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.our-skills h1 span.red {color: #e41b17;} 
+
+.contact-us h1 span.red{color: #e41b17;}
+*/
+
+/*
+.footer h3 
+{
+    color: #e41b17;
+}
+*/
+
+/*
+.footer .img-thumbnail
+{
+    border: 1px solid #e41b17;
+}
+*/
+
+/*
+.footer .copyright span
+{
+    color: #e41b17;
+}
+*/
+
+/***** End Default Theme *****/

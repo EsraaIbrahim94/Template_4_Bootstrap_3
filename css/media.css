@@ -1,0 +1,46 @@
+/*****  Start Media Query  *****/
+
+/* Smart Phone & Tablets  */
+@media (max-width: 767px)
+{
+    .navbar-inverse .navbar-nav > li > a
+    {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .subscribe .form-control
+    {
+        margin: 20px auto;
+    }
+
+    .footer .works
+    {
+        text-align: center;
+    }
+}
+
+
+/* Small Screen */
+@media (min-width: 768px) and (max-width: 991px)
+{
+    
+}
+
+
+/* medium Screen */
+@media (min-width : 992px) and (max-width: 1199px)
+{
+
+}
+
+
+/* Large Screen */
+@media (min-width: 1200px)
+{
+
+}
+
+/*****  End Media Query  *****/
+
+

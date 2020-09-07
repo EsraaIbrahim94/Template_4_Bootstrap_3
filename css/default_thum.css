@@ -1,0 +1,134 @@
+/***** Start Default Theme *****/
+
+
+/* Active Link */
+
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover,
+#scroll-top
+{
+    background-color: #e41b17;
+}
+
+.navbar-inverse .navbar-brand span
+{
+    color: #e41b17;
+}
+
+.dropdown-menu
+{
+    border-top: 2px solid #e41b17;
+}
+
+.dropdown-menu>li>a:focus, 
+.dropdown-menu>li>a:hover
+{
+    background-color: #e41b17;   
+}
+
+.carousel-caption h1
+{
+    color: #e41b17;
+}
+
+.carousel-indicators .active 
+{
+    background: #e41b17;
+}
+
+.option-box .color-option
+{
+    border: 4px solid #e41b17;
+}
+
+.option-box .gear-check
+{
+    background: #e41b17;
+}
+
+.about h1 span 
+{
+    color: #e41b17;
+}
+
+.features h1 span.red
+{
+    color: #e41b17;
+}
+
+.features .feat span.glyphicon
+{
+    color: #e41b17;
+}
+
+.features .feat .hh2
+{
+    color: #e41b17;
+}
+
+.features .feat .hh4
+{
+    color: #e41b17;
+}
+
+.testimonials span 
+{
+    color: #e41b17;
+}
+
+.price_table h1 span.red
+{
+    color: #e41b17;
+}
+
+.price_table .price_box .text-danger
+{
+    color: #e41b17;
+}
+
+.our_team h1 span.red
+{
+    color: #e41b17;
+}
+
+.our_team .person h3.red
+{
+    color: #e41b17;
+}
+
+.our_team .person i.red
+{
+    color: #e41b17;
+}
+
+.subscribe h1 span.red
+{
+    color: #e41b17;
+} 
+
+.statistics h1 span.red 
+{
+    color: #e41b17;
+}
+
+.our-skills h1 span.red {color: #e41b17;} 
+
+.contact-us h1 span.red{color: #e41b17;}
+
+.footer h3 
+{
+    color: #e41b17;
+}
+
+.footer .img-thumbnail
+{
+    border: 1px solid #e41b17;
+}
+
+.footer .copyright span
+{
+    color: #e41b17;
+}
+
+/***** End Default Theme *****/
